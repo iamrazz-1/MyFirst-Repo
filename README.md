@@ -1,4 +1,4 @@
 # MyFirst-Repo
 This is my first Git repository 
 <br>
-Author - Raj Kumar Shrestha
+Author - Raj Kumar Shrestha (Forester)
